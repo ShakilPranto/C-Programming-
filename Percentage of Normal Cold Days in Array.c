@@ -8,7 +8,7 @@ int main()
     
     int temperature[10];
     
-    printf("Enter temperature for 10 days (in Celsius):\n");
+    printf("Enter temperature for 10 days (In Celsius):\n");
     for(i = 0; i < days; i++)
     {
         printf("Day %d: ", i + 1);
