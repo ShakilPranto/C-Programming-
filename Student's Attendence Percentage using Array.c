@@ -35,7 +35,7 @@ int main()
     
     printf("Total Present Students: %d\n", present);
     printf("Total Absent Students: %d\n", absent);
-    printf("Attendance Percentage: %.2f%%\n", percentage);
+    printf("Attendance: %.2f%%\n", percentage);
     
     return 0;
 }
