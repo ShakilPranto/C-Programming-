@@ -3,6 +3,6 @@ int main() {
     int age ;
     printf("Enter age : \n");
     scanf("%d",&age);
-    age>=18 ? printf("Adult\n") : ("Not Adult\n");
+    age>=18 ? printf("Adult\n") : printf("Not Adult\n");
     return 0;
 }
